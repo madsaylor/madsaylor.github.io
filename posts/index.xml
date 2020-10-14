@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sergey Grigorchuk</title>
+    <link>https://grigorchuk.me/posts/</link>
+    <description>Recent content in Posts on Sergey Grigorchuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Oct 2020 21:30:14 +0300</lastBuildDate><atom:link href="https://grigorchuk.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to buy a good watermelon</title>
+      <link>https://grigorchuk.me/posts/pizza-theory/</link>
+      <pubDate>Wed, 14 Oct 2020 21:30:14 +0300</pubDate>
+      
+      <guid>https://grigorchuk.me/posts/pizza-theory/</guid>
+      <description>When it comes to watermelons, you never know. How to tell if product is good without trying it? Let&amp;rsquo;s say you want to buy a pizza. You can accidentally see some ads on tv or, more likely, social media. I don’t know about you, but for me ads adds zero or even negative credibility to products. Ads help to het known, but can it convince you about quality? I doubt it.</description>
+    </item>
+    
+  </channel>
+</rss>
