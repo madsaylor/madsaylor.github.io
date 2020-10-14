@@ -5,10 +5,6 @@
     <link>https://grigorchuk.me/tags/</link>
     <description>Recent content in Tags on Sergey Grigorchuk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://grigorchuk.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://grigorchuk.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

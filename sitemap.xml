@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://grigorchuk.me/categories/</loc>
+    <loc>https://grigorchuk.me/posts/pizza-theory/</loc>
+    <lastmod>2020-10-14T21:30:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grigorchuk.me/posts/</loc>
+    <lastmod>2020-10-14T21:30:14+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://grigorchuk.me/</loc>
+    <lastmod>2020-10-14T21:30:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grigorchuk.me/categories/</loc>
   </url>
   
   <url>
