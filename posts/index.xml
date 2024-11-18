@@ -2,30 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sergey Grigorchuk</title>
-    <link>https://grigorchuk.me/posts/</link>
+    <link>https://grigorchuk.com/posts/</link>
     <description>Recent content in Posts on Sergey Grigorchuk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Dec 2020 09:30:14 +0300</lastBuildDate><atom:link href="https://grigorchuk.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2020 09:30:14 +0300</lastBuildDate>
+    <atom:link href="https://grigorchuk.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laptops need to change</title>
-      <link>https://grigorchuk.me/posts/laptops-need-to-change/</link>
+      <link>https://grigorchuk.com/posts/laptops-need-to-change/</link>
       <pubDate>Mon, 07 Dec 2020 09:30:14 +0300</pubDate>
-      
-      <guid>https://grigorchuk.me/posts/laptops-need-to-change/</guid>
-      <description>Congrats! You are a digital nomad!
-  Modern laptops are unusable. Spending more than a couple of hours on a laptop leads to neck or back pain. At first, it’s just uncomfortable, but then it becomes unbearable. The laptop forces you to hunch over it while you’re supposed to be sitting straight.
-Your neck, wrists or back will eventually be hurt. For me, it was the neck. I just had to come up with something, or I couldn’t work.</description>
+      <guid>https://grigorchuk.com/posts/laptops-need-to-change/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://grigorchuk.com/laptops/hunched.png&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Congrats! You are a digital nomad!&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Modern laptops are unusable. Spending more than a couple of hours on a laptop leads to neck or back pain. At first, it’s just uncomfortable, but then it becomes unbearable. The laptop forces you to hunch over it while you’re supposed to be sitting straight.&lt;/p&gt;&#xA;&lt;p&gt;Your neck, wrists or back will eventually be hurt. For me, it was the neck. I just had to come up with something, or I couldn’t work. The display should be at eye level so my neck wouldn’t be under constant tension, which causes pain after a while.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to buy a good watermelon</title>
-      <link>https://grigorchuk.me/posts/how-to-buy-watermelon/</link>
+      <link>https://grigorchuk.com/posts/how-to-buy-watermelon/</link>
       <pubDate>Wed, 14 Oct 2020 21:30:14 +0300</pubDate>
-      
-      <guid>https://grigorchuk.me/posts/how-to-buy-watermelon/</guid>
-      <description>When it comes to watermelons, you never know. How to tell if a product is good without trying it? Let&amp;rsquo;s say you want to buy a pizza. You can accidentally see some ads on tv or, more likely, social media. I don’t know about you, but for me ads add zero or even negative credibility to products. Ads help to get known, but can it convince you about quality? I doubt it.</description>
+      <guid>https://grigorchuk.com/posts/how-to-buy-watermelon/</guid>
+      <description>&lt;p&gt;When it comes to watermelons, you never know.&#xA;How to tell if a product is good without trying it?&#xA;Let&amp;rsquo;s say you want to buy a pizza.&#xA;You can accidentally see some ads on tv or, more likely, social media.&#xA;I don’t know about you, but for me ads add zero or even negative credibility to products. Ads help to get known, but can it convince you about quality?&#xA;I doubt it.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
